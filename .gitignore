@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Standard\ Assets*
+Assets/SampleScenes*
+Assets/TreasureChestMaker*
 
 # Visual Studio cache directory
 .vs/
